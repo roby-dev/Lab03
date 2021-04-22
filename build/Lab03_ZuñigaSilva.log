@@ -1,0 +1,495 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.11)  22 APR 2021 14:30
+entering extended mode
+**"e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab03_ZuñigaSilva/Lab03_ZuñigaSilva.tex"
+("e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab03_ZuñigaSilva/Lab03_ZuñigaSilva.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03> (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count183
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count184
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count185
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count186
+\Gm@cntv=\count187
+\c@Gm@tempcnt=\count188
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks19
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count189
+\float@exts=\toks20
+\float@box=\box47
+\@float@everytoks=\toks21
+\@floatcapt=\box48
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen150
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks23
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks24
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks25
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\stackrel.sty
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count268
+\multirow@dima=\skip53
+\bigstrutjot=\dimen159
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count269
+\l__pdf_internal_box=\box51
+) ("e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab03_ZuñigaSilva\build\Lab03_ZuñigaSilva.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Lab03_ZuñigaSilva.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen160
+\scratchbox=\box52
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen161
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks29
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./Imagenes/logo.jpg, id=1, 202.7575pt x 249.93375pt>
+File: ./Imagenes/logo.jpg Graphic file (type jpg)
+<use ./Imagenes/logo.jpg>
+Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 113.81102pt x 140.29373pt.
+[1
+
+{C:/Users/ROBY/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Imagenes/logo.jpg>]
+<./Imagenes/image1.jpg, id=8, 454.69875pt x 137.7647pt>
+File: ./Imagenes/image1.jpg Graphic file (type jpg)
+<use ./Imagenes/image1.jpg>
+Package pdftex.def Info: ./Imagenes/image1.jpg  used on input line 106.
+(pdftex.def)             Requested size: 426.79134pt x 129.31172pt.
+<./Imagenes/image2.jpg, id=9, 146.04562pt x 179.16937pt>
+File: ./Imagenes/image2.jpg Graphic file (type jpg)
+<use ./Imagenes/image2.jpg>
+Package pdftex.def Info: ./Imagenes/image2.jpg  used on input line 115.
+(pdftex.def)             Requested size: 142.26378pt x 174.5459pt.
+ [1 <./Imagenes/image1.jpg> <./Imagenes/image2.jpg>]
+<./Imagenes/image3.jpg, id=13, 452.4403pt x 498.36188pt>
+File: ./Imagenes/image3.jpg Graphic file (type jpg)
+<use ./Imagenes/image3.jpg>
+Package pdftex.def Info: ./Imagenes/image3.jpg  used on input line 133.
+(pdftex.def)             Requested size: 369.88582pt x 407.42747pt.
+ [2 <./Imagenes/image3.jpg>]
+<./Imagenes/image4.jpg, id=17, 516.42938pt x 474.27188pt>
+File: ./Imagenes/image4.jpg Graphic file (type jpg)
+<use ./Imagenes/image4.jpg>
+Package pdftex.def Info: ./Imagenes/image4.jpg  used on input line 157.
+(pdftex.def)             Requested size: 426.79134pt x 391.96663pt.
+<./Imagenes/image5.jpg, id=18, 646.66594pt x 484.05844pt>
+File: ./Imagenes/image5.jpg Graphic file (type jpg)
+<use ./Imagenes/image5.jpg>
+Package pdftex.def Info: ./Imagenes/image5.jpg  used on input line 161.
+(pdftex.def)             Requested size: 455.24408pt x 340.77376pt.
+ [3 <./Imagenes/image4.jpg>] [4 <./Imagenes/image5.jpg>]
+<./Imagenes/image6.jpg, id=25, 507.39563pt x 484.05844pt>
+File: ./Imagenes/image6.jpg Graphic file (type jpg)
+<use ./Imagenes/image6.jpg>
+Package pdftex.def Info: ./Imagenes/image6.jpg  used on input line 191.
+(pdftex.def)             Requested size: 341.43306pt x 325.7356pt.
+<./Imagenes/image7.jpg, id=26, 657.2053pt x 481.8pt>
+File: ./Imagenes/image7.jpg Graphic file (type jpg)
+<use ./Imagenes/image7.jpg>
+Package pdftex.def Info: ./Imagenes/image7.jpg  used on input line 196.
+(pdftex.def)             Requested size: 341.43306pt x 250.30952pt.
+ [5 <./Imagenes/image6.jpg> <./Imagenes/image7.jpg>]
+<./Imagenes/image8.jpg, id=30, 134.00063pt x 143.03438pt>
+File: ./Imagenes/image8.jpg Graphic file (type jpg)
+<use ./Imagenes/image8.jpg>
+Package pdftex.def Info: ./Imagenes/image8.jpg  used on input line 209.
+(pdftex.def)             Requested size: 113.81102pt x 121.48375pt.
+<./Imagenes/image9.jpg, id=31, 185.94469pt x 423.08063pt>
+File: ./Imagenes/image9.jpg Graphic file (type jpg)
+<use ./Imagenes/image9.jpg>
+Package pdftex.def Info: ./Imagenes/image9.jpg  used on input line 219.
+(pdftex.def)             Requested size: 113.81102pt x 258.96323pt.
+ [6 <./Imagenes/image8.jpg> <./Imagenes/image9.jpg>]
+<./Imagenes/image10.jpg, id=36, 182.18062pt x 468.24937pt>
+File: ./Imagenes/image10.jpg Graphic file (type jpg)
+<use ./Imagenes/image10.jpg>
+Package pdftex.def Info: ./Imagenes/image10.jpg  used on input line 233.
+(pdftex.def)             Requested size: 113.81102pt x 292.51938pt.
+<./Imagenes/image11.jpg, id=37, 176.91093pt x 358.33875pt>
+File: ./Imagenes/image11.jpg Graphic file (type jpg)
+<use ./Imagenes/image11.jpg>
+Package pdftex.def Info: ./Imagenes/image11.jpg  used on input line 240.
+(pdftex.def)             Requested size: 113.81102pt x 230.528pt.
+ [7 <./Imagenes/image10.jpg> <./Imagenes/image11.jpg>]
+<./Imagenes/image12.jpg, id=41, 189.70876pt x 276.28218pt>
+File: ./Imagenes/image12.jpg Graphic file (type jpg)
+<use ./Imagenes/image12.jpg>
+Package pdftex.def Info: ./Imagenes/image12.jpg  used on input line 249.
+(pdftex.def)             Requested size: 170.71652pt x 248.62636pt.
+<./Imagenes/image13.jpg, id=42, 353.82187pt x 201.00093pt>
+File: ./Imagenes/image13.jpg Graphic file (type jpg)
+<use ./Imagenes/image13.jpg>
+Package pdftex.def Info: ./Imagenes/image13.jpg  used on input line 261.
+(pdftex.def)             Requested size: 170.71652pt x 96.98233pt.
+<./Imagenes/image14.jpg, id=43, 317.68687pt x 236.38312pt>
+File: ./Imagenes/image14.jpg Graphic file (type jpg)
+<use ./Imagenes/image14.jpg>
+Package pdftex.def Info: ./Imagenes/image14.jpg  used on input line 266.
+(pdftex.def)             Requested size: 170.71652pt x 127.0282pt.
+ [8 <./Imagenes/image12.jpg> <./Imagenes/image13.jpg> <./Imagenes/image14.jpg>]
+<./Imagenes/image15.jpg, id=47, 439.6425pt x 216.81pt>
+File: ./Imagenes/image15.jpg Graphic file (type jpg)
+<use ./Imagenes/image15.jpg>
+Package pdftex.def Info: ./Imagenes/image15.jpg  used on input line 275.
+(pdftex.def)             Requested size: 227.62204pt x 112.24892pt.
+<./Imagenes/image16.jpg, id=48, 506.6428pt x 152.06813pt>
+File: ./Imagenes/image16.jpg Graphic file (type jpg)
+<use ./Imagenes/image16.jpg>
+Package pdftex.def Info: ./Imagenes/image16.jpg  used on input line 284.
+(pdftex.def)             Requested size: 227.62204pt x 68.31863pt.
+<./Imagenes/image17.jpg, id=49, 846.16125pt x 94.85437pt>
+File: ./Imagenes/image17.jpg Graphic file (type jpg)
+<use ./Imagenes/image17.jpg>
+Package pdftex.def Info: ./Imagenes/image17.jpg  used on input line 294.
+(pdftex.def)             Requested size: 455.24408pt x 51.03242pt.
+<./Imagenes/image18.jpg, id=50, 170.88844pt x 365.11406pt>
+File: ./Imagenes/image18.jpg Graphic file (type jpg)
+<use ./Imagenes/image18.jpg>
+Package pdftex.def Info: ./Imagenes/image18.jpg  used on input line 302.
+(pdftex.def)             Requested size: 170.71652pt x 364.77332pt.
+ [9 <./Imagenes/image15.jpg> <./Imagenes/image16.jpg> <./Imagenes/image17.jpg>]
+<./Imagenes/image19.jpg, id=54, 185.94469pt x 400.49625pt>
+File: ./Imagenes/image19.jpg Graphic file (type jpg)
+<use ./Imagenes/image19.jpg>
+Package pdftex.def Info: ./Imagenes/image19.jpg  used on input line 310.
+(pdftex.def)             Requested size: 170.71652pt x 367.70935pt.
+ [10 <./Imagenes/image18.jpg>]
+<./Imagenes/image20.jpg, id=58, 195.73125pt x 282.30469pt>
+File: ./Imagenes/image20.jpg Graphic file (type jpg)
+<use ./Imagenes/image20.jpg>
+Package pdftex.def Info: ./Imagenes/image20.jpg  used on input line 317.
+(pdftex.def)             Requested size: 170.71652pt x 246.24062pt.
+ [11 <./Imagenes/image19.jpg> <./Imagenes/image20.jpg>]
+<./Imagenes/image21.jpg, id=62, 184.43906pt x 217.5628pt>
+File: ./Imagenes/image21.jpg Graphic file (type jpg)
+<use ./Imagenes/image21.jpg>
+Package pdftex.def Info: ./Imagenes/image21.jpg  used on input line 325.
+(pdftex.def)             Requested size: 170.71652pt x 201.37523pt.
+<./Imagenes/image22.jpg, id=63, 204.765pt x 272.51813pt>
+File: ./Imagenes/image22.jpg Graphic file (type jpg)
+<use ./Imagenes/image22.jpg>
+Package pdftex.def Info: ./Imagenes/image22.jpg  used on input line 330.
+(pdftex.def)             Requested size: 170.71652pt x 227.21707pt.
+ [12 <./Imagenes/image21.jpg> <./Imagenes/image22.jpg>]
+<./Imagenes/image23.jpg, id=68, 309.40594pt x 103.88812pt>
+File: ./Imagenes/image23.jpg Graphic file (type jpg)
+<use ./Imagenes/image23.jpg>
+Package pdftex.def Info: ./Imagenes/image23.jpg  used on input line 350.
+(pdftex.def)             Requested size: 455.24408pt x 152.86905pt.
+<./Imagenes/image24.jpg, id=69, 745.28438pt x 202.50656pt>
+File: ./Imagenes/image24.jpg Graphic file (type jpg)
+<use ./Imagenes/image24.jpg>
+Package pdftex.def Info: ./Imagenes/image24.jpg  used on input line 359.
+(pdftex.def)             Requested size: 455.24408pt x 123.69566pt.
+<./Imagenes/image25.jpg, id=70, 397.485pt x 116.68594pt>
+File: ./Imagenes/image25.jpg Graphic file (type jpg)
+<use ./Imagenes/image25.jpg>
+Package pdftex.def Info: ./Imagenes/image25.jpg  used on input line 368.
+(pdftex.def)             Requested size: 455.24408pt x 133.6465pt.
+ [13 <./Imagenes/image23.jpg> <./Imagenes/image24.jpg> <./Imagenes/image25.jpg>]
+<./Imagenes/image26.jpg, id=75, 513.41812pt x 411.78844pt>
+File: ./Imagenes/image26.jpg Graphic file (type jpg)
+<use ./Imagenes/image26.jpg>
+Package pdftex.def Info: ./Imagenes/image26.jpg  used on input line 386.
+(pdftex.def)             Requested size: 284.52756pt x 228.20598pt.
+<./Imagenes/image27.jpg, id=76, 507.39563pt x 379.4175pt>
+File: ./Imagenes/image27.jpg Graphic file (type jpg)
+<use ./Imagenes/image27.jpg>
+Package pdftex.def Info: ./Imagenes/image27.jpg  used on input line 395.
+(pdftex.def)             Requested size: 284.52756pt x 212.76761pt.
+ [14 <./Imagenes/image26.jpg> <./Imagenes/image27.jpg>]
+<./Imagenes/image28.jpg, id=80, 518.6878pt x 166.37157pt>
+File: ./Imagenes/image28.jpg Graphic file (type jpg)
+<use ./Imagenes/image28.jpg>
+Package pdftex.def Info: ./Imagenes/image28.jpg  used on input line 404.
+(pdftex.def)             Requested size: 455.24408pt x 146.02916pt.
+<./Imagenes/image29.jpg, id=81, 519.44063pt x 420.06938pt>
+File: ./Imagenes/image29.jpg Graphic file (type jpg)
+<use ./Imagenes/image29.jpg>
+Package pdftex.def Info: ./Imagenes/image29.jpg  used on input line 413.
+(pdftex.def)             Requested size: 426.79134pt x 345.14496pt.
+ [15 <./Imagenes/image28.jpg> <./Imagenes/image29.jpg>]
+<./Imagenes/image30.jpg, id=85, 517.18219pt x 308.65312pt>
+File: ./Imagenes/image30.jpg Graphic file (type jpg)
+<use ./Imagenes/image30.jpg>
+Package pdftex.def Info: ./Imagenes/image30.jpg  used on input line 432.
+(pdftex.def)             Requested size: 426.79134pt x 254.71732pt.
+ [16 <./Imagenes/image30.jpg>]
+<./Imagenes/image31.jpg, id=89, 514.92375pt x 214.55156pt>
+File: ./Imagenes/image31.jpg Graphic file (type jpg)
+<use ./Imagenes/image31.jpg>
+Package pdftex.def Info: ./Imagenes/image31.jpg  used on input line 461.
+(pdftex.def)             Requested size: 426.79134pt x 177.8322pt.
+<./Imagenes/image32.jpg, id=90, 515.67656pt x 221.32687pt>
+File: ./Imagenes/image32.jpg Graphic file (type jpg)
+<use ./Imagenes/image32.jpg>
+Package pdftex.def Info: ./Imagenes/image32.jpg  used on input line 466.
+(pdftex.def)             Requested size: 426.79134pt x 183.18115pt.
+ [17 <./Imagenes/image31.jpg> <./Imagenes/image32.jpg>]
+<./Imagenes/image33.jpg, id=94, 500.62032pt x 452.4403pt>
+File: ./Imagenes/image33.jpg Graphic file (type jpg)
+<use ./Imagenes/image33.jpg>
+Package pdftex.def Info: ./Imagenes/image33.jpg  used on input line 487.
+(pdftex.def)             Requested size: 426.79134pt x 385.7359pt.
+ [18 <./Imagenes/image33.jpg>] [19]
+<./Imagenes/image34.jpg, id=102, 515.67656pt x 250.68657pt>
+File: ./Imagenes/image34.jpg Graphic file (type jpg)
+<use ./Imagenes/image34.jpg>
+Package pdftex.def Info: ./Imagenes/image34.jpg  used on input line 547.
+(pdftex.def)             Requested size: 426.79134pt x 207.48071pt.
+<./Imagenes/image35.jpg, id=103, 515.67656pt x 245.41687pt>
+File: ./Imagenes/image35.jpg Graphic file (type jpg)
+<use ./Imagenes/image35.jpg>
+Package pdftex.def Info: ./Imagenes/image35.jpg  used on input line 552.
+(pdftex.def)             Requested size: 426.79134pt x 203.11925pt.
+ [20 <./Imagenes/image34.jpg>]
+<./Imagenes/image36.jpg, id=107, 501.37312pt x 247.67531pt>
+File: ./Imagenes/image36.jpg Graphic file (type jpg)
+<use ./Imagenes/image36.jpg>
+Package pdftex.def Info: ./Imagenes/image36.jpg  used on input line 557.
+(pdftex.def)             Requested size: 426.79134pt x 210.84245pt.
+<./Imagenes/image37.jpg, id=108, 495.35063pt x 242.40562pt>
+File: ./Imagenes/image37.jpg Graphic file (type jpg)
+<use ./Imagenes/image37.jpg>
+Package pdftex.def Info: ./Imagenes/image37.jpg  used on input line 562.
+(pdftex.def)             Requested size: 426.79134pt x 208.85683pt.
+ [21 <./Imagenes/image35.jpg> <./Imagenes/image36.jpg> <./Imagenes/image37.jpg>]
+<./Imagenes/image38.jpg, id=112, 500.62032pt x 250.68657pt>
+File: ./Imagenes/image38.jpg Graphic file (type jpg)
+<use ./Imagenes/image38.jpg>
+Package pdftex.def Info: ./Imagenes/image38.jpg  used on input line 567.
+(pdftex.def)             Requested size: 426.79134pt x 213.7272pt.
+ [22 <./Imagenes/image38.jpg>]
+<./Imagenes/image39.jpg, id=116, 511.9125pt x 246.9225pt>
+File: ./Imagenes/image39.jpg Graphic file (type jpg)
+<use ./Imagenes/image39.jpg>
+Package pdftex.def Info: ./Imagenes/image39.jpg  used on input line 600.
+(pdftex.def)             Requested size: 426.79134pt x 205.86493pt.
+<./Imagenes/image40.jpg, id=117, 510.40688pt x 258.21469pt>
+File: ./Imagenes/image40.jpg Graphic file (type jpg)
+<use ./Imagenes/image40.jpg>
+Package pdftex.def Info: ./Imagenes/image40.jpg  used on input line 605.
+(pdftex.def)             Requested size: 426.79134pt x 215.92566pt.
+ [23 <./Imagenes/image39.jpg> <./Imagenes/image40.jpg>] ("e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab03_ZuñigaSilva\build\Lab03_ZuñigaSilva.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4230 strings out of 479799
+ 65024 string characters out of 2870197
+ 360741 words of memory out of 3000000
+ 21139 multiletter control sequences out of 15000+200000
+ 536934 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,5n,72p,327b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\ROBY\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ROBY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ROBY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab03_ZuñigaSilva\build\Lab03_ZuñigaSilva.pdf" (24 pages, 1997653 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+
